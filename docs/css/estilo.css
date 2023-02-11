@@ -107,5 +107,7 @@ p {
 }
 span{
 color: white;
-  
+}
+    .tab-text{
+        color: black;    
 }
