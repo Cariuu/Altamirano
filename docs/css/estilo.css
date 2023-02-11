@@ -109,18 +109,18 @@ p {
 span{
 color: black;
 }
-.footer_section .footer-info {
+.footer-info {
   text-align: center;
   margin-top: 25px;
 }
 
-.footer_section .footer-info p {
+.footer-info p {
     color: #ffffff;
     margin: 0;
     padding: 20px 0;
     border-top: 1px solid rgba(255,255,255,0.2);
 }
 
-.footer_section .footer-info p a {
+.footer-info p a {
   color: inherit;
 }
