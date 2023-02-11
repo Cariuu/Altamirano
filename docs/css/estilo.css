@@ -94,6 +94,7 @@ ul.tab li a .tab-text {
 .bott{
     display: block;
     padding: 20px 25px 15px;
+     text-decoration:none;
 }
 .pie{
     color: white;
@@ -105,7 +106,7 @@ ul.tab li a .tab-text {
 }
 span{
 color: black;
-    text-decoration:none;
+   
 }
 
 
