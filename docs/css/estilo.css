@@ -100,19 +100,19 @@ ul.tab li a .tab-text {
     text-decoration:none;
     text-align: center;
     font-size: 23px;
-   padding-right: 24px;
+   padding-right: 30px;
     
 }
 p {
     font-size: 25px;
 }
 span{
-color: black;
+color: white;
 }
 .footer-info{
   text-align: center;
   margin-top: 25px;
-    color: black;
+    color: white;
     margin: 0;
     padding: 20px 0;
     
