@@ -95,7 +95,7 @@ ul.tab li a .tab-text {
     display: block;
     padding: 20px 25px 15px;
 }
-.pie a {
+.pie{
     color: white;
     text-decoration:solid;
     text-align: center;
