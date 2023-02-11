@@ -4,12 +4,13 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+     text-decoration: none;
 }
 
 body {
     background-image: url("https://cdn.discordapp.com/attachments/1060608669491941497/1073780333801119835/IMG_20230210_205105.png");
     color: white;
-    text-decoration: none;
+   
 }
 
 .resolucion {
@@ -95,7 +96,7 @@ ul.tab li a .tab-text {
 .bott{
     display: block;
     padding: 20px 25px 15px;
-     text-decoration:none;
+     text-decoration: none;
 }
 .pie{
     color: white;
