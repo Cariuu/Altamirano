@@ -109,14 +109,13 @@ p {
 span{
 color: black;
 }
-.footer-info p a {
+.footer-info{
   text-align: center;
   margin-top: 25px;
-
     color: white;
     margin: 0;
     padding: 20px 0;
-    border-top: 1px solid rgba(255,255,255,0.2);
+    
 }
 
 
