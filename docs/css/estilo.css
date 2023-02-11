@@ -97,7 +97,7 @@ ul.tab li a .tab-text {
 }
 .pie{
     color: white;
-    text-decoration:solid;
+    text-decoration:none;
     text-align: center;
     font-size: 23px;
    padding-right: 20px;
@@ -105,7 +105,7 @@ ul.tab li a .tab-text {
 }
 span{
 color: black;
-    text-decoration:solid;
+    text-decoration:none;
 }
 
 
