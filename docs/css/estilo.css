@@ -9,6 +9,7 @@
 body {
     background-image: url("https://cdn.discordapp.com/attachments/1060608669491941497/1073780333801119835/IMG_20230210_205105.png");
     color: white;
+    text-decoration: none;
 }
 
 .resolucion {
@@ -98,14 +99,14 @@ ul.tab li a .tab-text {
 }
 .pie{
     color: white;
-    text-decoration:none;
+    text-decoration: none;
     text-align: center;
     font-size: 23px;
    padding-right: 20px;
     
 }
 span{
-color: black;
+color: white;
    
 }
 
