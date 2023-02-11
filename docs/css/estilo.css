@@ -97,10 +97,10 @@ ul.tab li a .tab-text {
 }
 .pie{
     color: black;
-    text-decoration:none;
+    text-decoration: none;
     text-align: center;
     font-size: 23px;
-   padding-right: 30px;
+   padding-right: 22px;
     
 }
 p {
@@ -111,11 +111,8 @@ color: white;
 }
 .footer-info{
   text-align: center;
-  margin-top: 25px;
     color: white;
-    margin: 0;
-    padding: 20px 0;
-    
+      
 }
 
 
